@@ -1,0 +1,28 @@
+{
+  "name": "laravel-hybrid-spa-page-state-loader",
+  "version": "1.0.0",
+  "description": "\"This package is meant to be used in conjunction with `Laravel hybrid SPA`. It provides the functionality to load page state.\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mustafarefaey/laravel-hybrid-spa-page-state-loader.git"
+  },
+  "keywords": [
+    "laravel",
+    "hybrid",
+    "spa",
+    "state"
+  ],
+  "author": "Mustafa Refaey <mustafarefaey@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mustafarefaey/laravel-hybrid-spa-page-state-loader/issues"
+  },
+  "homepage": "https://github.com/mustafarefaey/laravel-hybrid-spa-page-state-loader#readme",
+  "dependencies": {
+    "axios": "^0.21.0"
+  }
+}
