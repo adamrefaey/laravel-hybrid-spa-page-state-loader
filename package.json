@@ -1,5 +1,5 @@
 {
-  "name": "laravel-hybrid-spa-page-state-loader",
+  "name": "@mustafarefaey/laravel-hybrid-spa-page-state-loader",
   "version": "1.0.0",
   "description": "\"This package is meant to be used in conjunction with `Laravel hybrid SPA`. It provides the functionality to load page state.\"",
   "main": "index.js",
