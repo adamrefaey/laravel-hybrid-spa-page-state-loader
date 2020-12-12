@@ -1,4 +1,4 @@
-### This package is meant to be used in conjunction with (Laravel hybrid SPA](https://github.com/mustafarefaey/laravel-hybrid-spa). It provides the functionality to load page state.
+### This package is meant to be used in conjunction with [Laravel hybrid SPA](https://github.com/mustafarefaey/laravel-hybrid-spa). It provides the functionality to load page state.
 
 
 # Installation
